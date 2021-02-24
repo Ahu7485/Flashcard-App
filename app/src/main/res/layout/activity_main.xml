@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
@@ -8,33 +8,26 @@
 
     <TextView
         android:id="@+id/question"
-        android:layout_width="wrap_content"
-        android:layout_height="200dp"
-        android:text="Who is the 44th President of the United States?"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        android:text="How tall is the Statue of Liberty?"
         android:textAlignment="center"
         android:textColor="@color/cardview_dark_background"
+        android:background="#FFFF00"
         android:textSize="40sp"
-        tools:layout_editor_absoluteX="0dp"
-        tools:layout_editor_absoluteY="137dp"
-        android:visibility="visible"
-        app:layout_constraintBottom_toTopOf="parent"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="parent"/>
+        android:visibility="visible"/>
 
     <TextView
         android:id="@+id/answer"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
         android:gravity="center"
-        android:text="Barack Obama"
+        android:text="304 ft tall"
         android:textSize="50dp"
         android:visibility="gone"
+        android:background="#00ff00"
         tools:layout_editor_absoluteX="43dp"
-        tools:layout_editor_absoluteY="193dp"
-        app:layout_constraintBottom_toTopOf="parent"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="parent"/>
+        tools:layout_editor_absoluteY="193dp" />
 
-</androidx.constraintlayout.widget.ConstraintLayout>
+</RelativeLayout>
