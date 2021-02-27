@@ -8,9 +8,8 @@
   This Flash-Card App shows a question at first. If clicked then the answer would be displayed, and if clicked again the question would show again.
 
 ### App Walk-though
-`TODO://`https://im.ezgif.com/tmp/ezgif-1-dd1e293c629c.gif
 
-<img src="YOUR_GIF_URL_HERE" width=200><br>
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/8aJNqVa" data-context="false" ><a href="//imgur.com/a/8aJNqVa"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 `TODO://` In the User stories section below, add an `x` between the `-[ ]` like this `- [x]` for any user story you complete. (☝️ Remove this paragraph after after checking off user stories)
 
