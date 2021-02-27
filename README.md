@@ -8,6 +8,7 @@
   This Flash-Card App shows a question at first. If clicked then the answer would be displayed, and if clicked again the question would show again.
 
 ### App Walk-though
+https://imgur.com/a/8aJNqVa
 
 <blockquote class="imgur-embed-pub" lang="en" data-id="a/8aJNqVa" data-context="false" ><a href="//imgur.com/a/8aJNqVa"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
