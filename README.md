@@ -9,6 +9,7 @@
 
 ### App Walk-though
 https://imgur.com/a/8aJNqVa
+<img src="my_gif_address.gif", width=250 />
 
 <img src="https://imgur.com/a/8aJNqVa", width=250/>
 
