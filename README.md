@@ -8,7 +8,7 @@
   This Flash-Card App shows a question at first. If clicked then the answer would be displayed, and if clicked again the question would show again.
 
 ### App Walk-though
-`TODO://` Add the URL to your animated app walk-though `gif` in the image tag below. Make sure the gif actually renders and animates when viewing this README. (☝️ Remove this paragraph after after adding gif)
+`TODO://`https://im.ezgif.com/tmp/ezgif-1-dd1e293c629c.gif
 
 <img src="YOUR_GIF_URL_HERE" width=200><br>
 
