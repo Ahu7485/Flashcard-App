@@ -10,7 +10,7 @@
 ### App Walk-though
 https://imgur.com/a/8aJNqVa
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/8aJNqVa" data-context="false" ><a href="//imgur.com/a/8aJNqVa"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+<img src="https://imgur.com/a/8aJNqVa", width=250/>
 
 `TODO://` In the User stories section below, add an `x` between the `-[ ]` like this `- [x]` for any user story you complete. (☝️ Remove this paragraph after after checking off user stories)
 
