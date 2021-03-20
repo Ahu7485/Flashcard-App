@@ -42,5 +42,35 @@
         android:scaleType="fitXY"
         app:srcCompat="@drawable/ic_action_name" />
 
+    <ImageView
+        android:id="@+id/left_button"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:layout_marginVertical="50dp"
+        android:layout_marginLeft="35dp"
+        app:srcCompat="@drawable/ic_left_button"
+        />
+
+    <ImageView
+        android:id="@+id/right_button"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_alignParentBottom="true"
+        android:layout_marginVertical="50dp"
+        android:layout_alignParentRight="true"
+        android:layout_marginRight="35dp"
+        app:srcCompat="@drawable/ic_right_button" />
+
+    <ImageView
+        android:id="@+id/delete_button"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_centerHorizontal="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="175dp"
+        app:srcCompat="@drawable/cl_delete_button" />
+
 
 </RelativeLayout>
