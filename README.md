@@ -8,6 +8,10 @@ https://media.giphy.com/media/5QQLmCTnWUgAZGi2Hd/giphy.gif
 
 <img src="https://media.giphy.com/media/5QQLmCTnWUgAZGi2Hd/giphy.gif" width=200><br>
 
+Gif of delete button
+
+<img src="https://media.giphy.com/media/tSzZndkOoJ4EvJt3gN/giphy.gif" width=200><br>
+
 `TODO://` In the User stories section below, add an `x` between the `-[ ]` like this `- [x]` for any user story you complete. (☝️ Remove this paragraph after after checking off user stories)
 
 ## Required
