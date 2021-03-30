@@ -12,4 +12,4 @@
 - [x] User sees a 'card flip' animation when the card is tapped
 - [ ] User sees a celebration animation with confetti when they answer a question correctly
 
-<img_src="https://media.giphy.com/media/c5x2BKbVagnSmO1eTl/giphy.gif" width="200" height="400" />
+<img src="https://media.giphy.com/media/c5x2BKbVagnSmO1eTl/giphy.gif" width="200" height="400" />
