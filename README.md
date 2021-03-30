@@ -1,25 +1,15 @@
-## Lab 3
 
-### App Description
-Added switching flashcards, and delete button, and flashcards save when app quits
-
-### App Walk-though
-https://media.giphy.com/media/5QQLmCTnWUgAZGi2Hd/giphy.gif
-
-<img src="https://media.giphy.com/media/5QQLmCTnWUgAZGi2Hd/giphy.gif" width=200><br>
-
-Gif of delete button
-
-<img src="https://media.giphy.com/media/LGlJ3qk488jGpaG6si/giphy.gif" width=200><br>
-
-`TODO://` In the User stories section below, add an `x` between the `-[ ]` like this `- [x]` for any user story you complete. (☝️ Remove this paragraph after after checking off user stories)
+# Lab 4 : 
 
 ## Required
-- [x] User can create a card and still see their created card when the app is relaunched.
-- [x] User can create muliple cards and browse through all created cards
+- [X] User sees a transition animation when going from the main screen to the add card screen.
+- [X] User sees a reveal animation when the flashcard is tapped and the answer is shown
+- [X] User sees flashcards animating in / out when the 'next' button is tapped
 
 ## Optional
-- [x] User can delete a card and no longer see it in their deck anymore
-- [ ] Flashcards are shown in random order instead of the order they were created in
-- [ ] User can edit a card and see the edit saved when they browse through their deck of cards
-- [ ] User can create flashcards with multiple answers and be able to browse through cards with multiple choice answers shown
+- [ ] Extra styling is added!
+- [ ] User sees a countdown timer for each question
+- [x] User sees a 'card flip' animation when the card is tapped
+- [ ] User sees a celebration animation with confetti when they answer a question correctly
+
+<img_src="https://media.giphy.com/media/c5x2BKbVagnSmO1eTl/giphy.gif" width="200" height="400" />
