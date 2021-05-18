@@ -6,7 +6,7 @@ This application created Flashcards to allow users to improve vocabulary and mem
 ### App Features
 
 #### Flipping cards
-<img src="https://media.giphy.com/media/VftxJPp0Qfx7lkC2Lw/giphy.gif" width="200" height="400"><br>
+<img src="https://media.giphy.com/media/q9fiHWXEpfSI7FKhCn/giphy.gif" width="200" height="400"><br>
 #### Card Swiping
 <img src="https://media.giphy.com/media/zegkqeESaGC6n6FoCe/giphy.gif" width="200" height="400"><br>
 #### Card Deleting                                       
