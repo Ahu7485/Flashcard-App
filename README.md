@@ -1,21 +1,14 @@
-## Lab 3
+## FlashCard App
 
 ### App Description
-Added switching flashcards, and delete button, and flashcards save when app quits
+This application created Flashcards to allow users to improve vocabulary and memorize information better.
 
-### App Walk-though
-https://media.giphy.com/media/5QQLmCTnWUgAZGi2Hd/giphy.gif
+### App Features
 
-<img src="https://media.giphy.com/media/5QQLmCTnWUgAZGi2Hd/giphy.gif" width=200><br>
+    Flipping cards      Card Swiping
+<img src="https://media.giphy.com/media/VftxJPp0Qfx7lkC2Lw/giphy.gif"width=200><img src="https://media.giphy.com/media/zegkqeESaGC6n6FoCe/giphy.gif"width=200><br>
+    Card Deleting               Card Adding
+<img src="https://media.giphy.com/media/VftxJPp0Qfx7lkC2Lw/giphy.gif"width=200><img src="https://media.giphy.com/media/nxoCZ93SinVaBclQvs/giphy.gif"width=200><br>
+    Data Saving                 Permission Denied for Scenarios
+<img src="https://media.giphy.com/media/b9A9acBSJuQlyspL41/giphy.gif"width=200><img src="https://media.giphy.com/media/I7leNzT0vJfQyvwK9D/giphy.gif"width=200><br>
 
-`TODO://` In the User stories section below, add an `x` between the `-[ ]` like this `- [x]` for any user story you complete. (☝️ Remove this paragraph after after checking off user stories)
-
-## Required
-- [x] User can create a card and still see their created card when the app is relaunched.
-- [x] User can create muliple cards and browse through all created cards
-
-## Optional
-- [x] User can delete a card and no longer see it in their deck anymore
-- [ ] Flashcards are shown in random order instead of the order they were created in
-- [ ] User can edit a card and see the edit saved when they browse through their deck of cards
-- [ ] User can create flashcards with multiple answers and be able to browse through cards with multiple choice answers shown
